@@ -69,7 +69,7 @@
                                         <limit>
                                             <counter>BRANCH</counter>
                                             <value>COVEREDRATIO</value>
-                                            <minimum>80%</minimum>
+                                            <minimum>10%</minimum>
                                         </limit>
                                     </limits>
                                 </rule>
